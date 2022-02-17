@@ -5,7 +5,7 @@ I'm David Livingstone Hini, a motivated and mission driven software engineer.
 These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>.
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you type ls-l-c in a shell](https://medium.com/@kwamelivingstone77/what-happens-when-you-type-ls-l-c-in-a-shell-and-hit-enter-89fbb4094139)
+- [What happens when you type ls-l-c in a shell and hit Enter?](https://medium.com/@kwamelivingstone77/what-happens-when-you-type-ls-l-c-in-a-shell-and-hit-enter-89fbb4094139)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
