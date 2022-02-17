@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '15 14 1 * *' # Runs every first day of the month
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+      - with:
+          commit_message: "[Bot] Update all the things!"
+          commit_user_name: David Livingstone Hini
+          commit_user_email: kwamelivingstone77@gmail.com
+          commit_author: David Livingstone Hini <kwamelivingstone77@gmail.com>
+      - with:
+          feed_list: "https://swaestone.medium.com/feed"
