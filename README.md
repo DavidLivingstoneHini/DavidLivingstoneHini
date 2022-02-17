@@ -23,7 +23,7 @@ width="30px" height="height">
 <img src="medium.png" alt="alternate text"
 width="30px" height="height">
 </a> 
-<a href="https://twitter.com/SwaeStone">
+<a href="https://twitter.com/@StoneSwae">
 <img src="twitter.png" alt="alternate text"
 width="30px" height="height">
 </a> 
