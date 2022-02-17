@@ -14,19 +14,20 @@ These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>
 
 ### 👊🏾 Connect with me:
 <a href="https://linkedin.com/in/livingstone-david-kwame-hini-bba016176/">
-<img src="images/linkedin.png" alt="alternate text"
+<img src="linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 <a href="https://medium.com/@kwamelivingstone77">
-<img src="images/medium.png" alt="alternate text"
+<img src="medium.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 <a href="https://twitter.com/AsiaSharif15">
-<img src="images/twitter.png" alt="alternate text"
+<img src="twitter.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 
-<br>
+<br><br>
+<hr>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidLivingstoneHini&show_icons=true&theme=cobalt" />
 
