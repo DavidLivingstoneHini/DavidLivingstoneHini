@@ -13,6 +13,7 @@ These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>
 <br>
 
 ### 👊🏾 Connect with me:
+
 <a href="https://linkedin.com/in/livingstone-david-kwame-hini-bba016176/">
 <img src="linkedin.png" alt="alternate text"
 width="30px" height="height">
