@@ -12,13 +12,13 @@ These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>
 
 <br>
 
-### 🤝 Connect with me:
+### 👊🏾 Connect with me:
 <a href="https://linkedin.com/in/livingstone-david-kwame-hini-bba016176/">
-<img src="images/linkedin.png" alt="alternate text"
+<img src="linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 <a href="https://medium.com/@kwamelivingstone77">
-<img src="images/medium.png" alt="alternate text"
+<img src="icon.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 
