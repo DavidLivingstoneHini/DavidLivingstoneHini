@@ -32,12 +32,10 @@ width="30px" height="height">
 width="30px" height="height">
 </a> 
 
-<br>
 <hr>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidLivingstoneHini&show_icons=true&theme=cobalt" />
 
-<br>
 
 ## 💼 Technical Skills 
 
