@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- 👨🏾‍🎤I'm David Livingstone Hini, as an engineer my goal is to follow my passion for building things and solving hard engineering problems as they are intrinsically fun to tackle. 
+- 👨 🏾‍🎤I'm David Livingstone Hini, as an engineer my goal is to follow my passion for building things and solving hard engineering problems as they are intrinsically fun to tackle. 
 
 - 🔭 Learning new skills is very pivotal for me, I want to expand my learning curve by accepting new challenges. 
 
-- 🌱 I have major interests in deep learning, AI, embedded systems, and web & mobile application development.
+- 🌱 I have major interests in deep learning, AI, embedded systems and web & mobile application development.
 
 
 # 📝 Latest Blog Posts
