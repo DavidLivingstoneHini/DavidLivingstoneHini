@@ -14,11 +14,9 @@ These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>
 - [What happens when you type ls-l-c in a shell and hit Enter?](https://medium.com/@kwamelivingstone77/what-happens-when-you-type-ls-l-c-in-a-shell-and-hit-enter-89fbb4094139)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLivingstoneHini&layout=compact&show_icons=true&theme=cobalt" />
 
-<br>
 
 ## 👊🏾 Connect with me:
 <a href="https://linkedin.com/in/livingstone-david-kwame-hini-bba016176/">
