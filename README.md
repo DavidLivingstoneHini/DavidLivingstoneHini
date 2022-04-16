@@ -4,7 +4,7 @@
 
 - 🔭 Learning new skills is very pivotal for me, I want to expand my learning curve by accepting new challenges. 
 
-- 🌱 I have major interests in deep learning, AI, embedded systems and web & mobile application development.
+- 🌱 I have major interests in machine learning & AI, embedded systems, web & mobile application development.
 
 
 # 📝 Latest Blog Posts
