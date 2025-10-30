@@ -1,10 +1,11 @@
 # Hi there 👋
 
-- 👨🏾‍🎤 I'm David Livingstone Hini, as an engineer my goal is to follow my passion for building things and solving hard engineering problems as they are intrinsically fun to tackle. 
+- 👨🏾‍💻 I'm **Livingstone David Hini**, a **Software Engineer** passionate about building intelligent, scalable systems across web, mobile, and backend platforms.
 
-- 🔭 Learning new skills is very pivotal for me, I want to expand my learning curve by accepting new challenges. 
+- 🧠 My expertise spans **AI & machine learning**, **embedded systems**, and **full-stack development**, with a strong focus on solving complex engineering problems through clean architecture and thoughtful design.
 
-- 🌱 I have major interests in machine learning & AI, embedded systems, web & mobile application development.
+- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation, creating technology that’s efficient, impactful, and future-ready.
+
 
 
 # 📝 Latest Blog Posts
