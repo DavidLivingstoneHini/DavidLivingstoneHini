@@ -2,11 +2,11 @@
 
 - 👨🏾‍💻 I'm Livingstone David Hini, a Software Engineer passionate about building intelligent, scalable systems across web, mobile, and backend platforms.
 
-- 🌍 I’ve gained international engineering experience through collaborations on large-scale and high-impact projects, working with globally distributed teams to deliver quality software solutions.
+- 🌍 I bring international engineering experience, having collaborated with globally distributed teams on high-impact projects that bridge software development and artificial intelligence.
 
-- 🧠 My expertise spans AI & machine learning, embedded systems, and full-stack development, with a strong focus on solving complex engineering problems through clean architecture and thoughtful design.
+- 🧠 My expertise spans AI & machine learning, natural language processing, data science, and full-stack development, with a strong focus on solving complex problems through clean architecture, experimentation, and data-driven insights.
 
-- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation, creating technology that’s efficient, impactful, and future-ready.
+- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation, creating technology that’s efficient, human-centered, and future-ready.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
