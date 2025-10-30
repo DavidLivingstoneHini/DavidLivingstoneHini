@@ -6,7 +6,7 @@
 
 - 🧠 My expertise spans AI & machine learning, embedded systems, and full-stack development, with a strong focus on solving complex engineering problems through clean architecture and thoughtful design.
 
-- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation — creating technology that’s efficient, impactful, and future-ready.
+- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation, creating technology that’s efficient, impactful, and future-ready.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
