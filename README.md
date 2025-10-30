@@ -1,18 +1,14 @@
 # Hi there 👋
 
-- 👨🏾‍💻 I'm **Livingstone David Hini**, a **Software Engineer** passionate about building intelligent, scalable systems across web, mobile, and backend platforms.
+- 👨🏾‍💻 I'm Livingstone David Hini, a Software Engineer passionate about building intelligent, scalable systems across web, mobile, and backend platforms.
 
-- 🧠 My expertise spans **AI & machine learning**, **embedded systems**, and **full-stack development**, with a strong focus on solving complex engineering problems through clean architecture and thoughtful design.
+- 🌍 I’ve gained international engineering experience through collaborations on large-scale and high-impact projects, working with globally distributed teams to deliver quality software solutions.
 
-- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation, creating technology that’s efficient, impactful, and future-ready.
+- 🧠 My expertise spans AI & machine learning, embedded systems, and full-stack development, with a strong focus on solving complex engineering problems through clean architecture and thoughtful design.
 
-
-
-# 📝 Latest Blog Posts
-These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>.
+- 🚀 I’m driven by curiosity, continuous learning, and the pursuit of innovation — creating technology that’s efficient, impactful, and future-ready.
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you type ls-l-c in a shell and hit Enter?](https://medium.com/@kwamelivingstone77/what-happens-when-you-type-ls-l-c-in-a-shell-and-hit-enter-89fbb4094139)
 <!-- BLOG-POST-LIST:END -->
 
 
