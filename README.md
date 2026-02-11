@@ -2,8 +2,6 @@ Hi there 👋
 
 I’m Livingstone David Hini, a Software Engineer building scalable web, mobile, and backend systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidLivingstoneHini&label=Profile%20views&color=0e75b6&style=flat" alt="davidlivingstonehini" /> </p>
-
 I work across full-stack development and applied AI, focusing on clean architecture, performance, and practical problem-solving. I enjoy turning complex ideas into production-ready software that performs reliably in real-world environments.
 
 Always learning. Always building.
