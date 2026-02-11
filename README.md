@@ -1,6 +1,5 @@
-Hi there 👋
-
-I’m Livingstone David Hini, a Software Engineer building scalable web, mobile, and backend systems.
+<h1 align="center">Hi 👋, I'm Livingstone David Kwame Hini</h1>
+<h3 align="center">A Software Engineer building scalable web, mobile, and backend systems.</h3>
 
 - 👨‍💻 I work across full-stack development and applied AI, focusing on clean architecture, performance, and practical problem-solving. I enjoy turning complex ideas into production-ready software that performs reliably in real-world environments.
 
