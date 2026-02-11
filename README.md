@@ -2,9 +2,9 @@ Hi there 👋
 
 I’m Livingstone David Hini, a Software Engineer building scalable web, mobile, and backend systems.
 
-I work across full-stack development and applied AI, focusing on clean architecture, performance, and practical problem-solving. I enjoy turning complex ideas into production-ready software that performs reliably in real-world environments.
+- 👨‍💻 I work across full-stack development and applied AI, focusing on clean architecture, performance, and practical problem-solving. I enjoy turning complex ideas into production-ready software that performs reliably in real-world environments.
 
-Always learning. Always building.
+- 📫 You can reach me here **kwamelivingstone77@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
