@@ -9,10 +9,6 @@ Always learning. Always building.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLivingstoneHini&layout=compact&show_icons=true&theme=cobalt" />
-
-
 ## 👊🏾 Connect with me:
 <a href="https://linkedin.com/in/livingstone-david-kwame-hini-bba016176/">
 <img src="linkedin.png" alt="alternate text"
