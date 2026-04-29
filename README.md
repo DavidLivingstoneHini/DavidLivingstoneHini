@@ -8,20 +8,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 👊🏾 Connect with me:
-<a href="https://linkedin.com/in/livingstone-david-kwame-hini-bba016176/">
-<img src="linkedin.png" alt="alternate text"
-width="30px" height="height">
-</a> 
-<a href="https://medium.com/@kwamelivingstone77">
-<img src="medium.png" alt="alternate text"
-width="30px" height="height">
-</a> 
-<a href="https://twitter.com/@StoneSwae">
-<img src="twitter.png" alt="alternate text"
-width="30px" height="height">
-</a> 
-
 <hr>
 
 ## 💼 Technical Skills 
